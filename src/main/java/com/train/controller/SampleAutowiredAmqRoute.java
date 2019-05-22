@@ -3,7 +3,7 @@ package com.train.controller;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
-
+//made by cristin
 @Component
 public class SampleAutowiredAmqRoute extends RouteBuilder {
 
